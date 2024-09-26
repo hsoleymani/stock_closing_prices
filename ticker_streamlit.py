@@ -53,6 +53,6 @@ st.plotly_chart(fig, use_container_width=True)
 ##------------------------------------------------------------------------------------------------------------------------------------------
 
 st.markdown('***')
-st.markdown('Author: Hamid Soleymani')
+st.markdown('Author: Dr. Hamid Soleymani')
 st.markdown(
     "Thanks for using this mini-tool! I'd love to be connected with you and receive feedback on this, so if you want to reach out you can find me on [LinkedIn] (https://www.linkedin.com/in/hsol/) or my [website](https://www.hamidanalytics.com/).")
